@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Das Vermächtnis der Drachenreiter",
+    "series": "Eragon 1",
+    "account": "assets/images/de.svg",
+    "deleted": false
+  },
+  {
+    "title": "Der Auftrag des Ältesten",
+    "series": "Eragon 2",
+    "account": "assets/images/de.svg",
+    "deleted": false
+  },
+  {
+    "title": "Die Weisheit des Feuers",
+    "series": "Eragon 3",
+    "account": "assets/images/de.svg",
+    "deleted": false
+  },
+  {
+    "title": "Das Erbe der Macht",
+    "series": "Eragon 4",
+    "account": "assets/images/us.svg",
+    "deleted": false
+  },
+  {
+    "title": "Das Mädchen, das sieht",
+    "series": "Sasha Urban 1",
+    "account": "assets/images/no.svg",
+    "deleted": true
+  }
+]
