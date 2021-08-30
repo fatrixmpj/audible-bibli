@@ -1,5 +1,8 @@
 # AudibleBiblio
 
-Liste für die private Audible Bibliothek
+Liste für die private Audible Bibliothek.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
+Frontend erstellt mit Angular 11 und NGRX.
+
+---
+Backend: https://github.com/fatrixmpj/audible-bibli-functions
